@@ -1,9 +1,9 @@
+from typing import Union, List, Dict
+
 import pytorch_lightning as pl
 import torch
 import torchmetrics
 import numpy as np
-
-from typing import Union, List, Dict
 
 
 class PINNLosses:
